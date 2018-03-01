@@ -1,7 +1,7 @@
 # python-connect-mysql
 #Python connect to the mysql
 
-#1，部署了mysql数据库用户
+#1.部署了mysql数据库用户
 
 #2.python 连接 mysql
 
