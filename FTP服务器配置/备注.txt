@@ -1,0 +1,2 @@
+1.按照教程配置FTP服务器
+2.打开scanner tool ，配置非xml接口--FTP上传
